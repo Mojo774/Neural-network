@@ -1,0 +1,5 @@
+﻿  Test.cpp
+C:\Users\aleks\source\repos\N1\Test\Test.cpp(37,30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\aleks\source\repos\N1\Test\Test.cpp(42,18): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\aleks\source\repos\N1\Test\Test.cpp(46,57): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Test.vcxproj -> C:\Users\aleks\source\repos\N1\Debug\Test.exe

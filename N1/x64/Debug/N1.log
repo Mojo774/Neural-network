@@ -1,0 +1,30 @@
+﻿  N1.cpp
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(12,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(13,47): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(14,47): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(50,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(51,46): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(88,38): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(89,47): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(90,38): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(91,47): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(175,30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(203,30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(213,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(222,72): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(233,72): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(249,72): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(258,81): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(259,81): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(260,81): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(306,81): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(307,81): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(308,81): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(314,30): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(359,81): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(360,81): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(361,81): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(386,32): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(317,11): warning C4101: weights_delta_layer: неиспользованная локальная переменная
+C:\Users\aleks\source\repos\N1\N1\N1.cpp(316,11): warning C4101: grad: неиспользованная локальная переменная
+  N1.vcxproj -> C:\Users\aleks\source\repos\N1\x64\Debug\N1.exe
